@@ -1,0 +1,12 @@
+C:\Users\FS_2017\Documents\Siscoli\LogicaBl\bin\Debug\LogicaBl.dll.config
+C:\Users\FS_2017\Documents\Siscoli\LogicaBl\bin\Debug\LogicaBl.dll
+C:\Users\FS_2017\Documents\Siscoli\LogicaBl\bin\Debug\LogicaBl.pdb
+C:\Users\FS_2017\Documents\Siscoli\LogicaBl\bin\Debug\Datos.dll
+C:\Users\FS_2017\Documents\Siscoli\LogicaBl\bin\Debug\EntityFramework.dll
+C:\Users\FS_2017\Documents\Siscoli\LogicaBl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FS_2017\Documents\Siscoli\LogicaBl\bin\Debug\Datos.pdb
+C:\Users\FS_2017\Documents\Siscoli\LogicaBl\bin\Debug\EntityFramework.xml
+C:\Users\FS_2017\Documents\Siscoli\LogicaBl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FS_2017\Documents\Siscoli\LogicaBl\obj\Debug\LogicaBl.csprojResolveAssemblyReference.cache
+C:\Users\FS_2017\Documents\Siscoli\LogicaBl\obj\Debug\LogicaBl.dll
+C:\Users\FS_2017\Documents\Siscoli\LogicaBl\obj\Debug\LogicaBl.pdb

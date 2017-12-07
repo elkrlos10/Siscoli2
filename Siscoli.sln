@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siscoli", "Siscoli\Siscoli.csproj", "{CCA680A8-11ED-434C-85C9-9048F6880CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{53E3BDDD-7204-4F80-86A0-569D7BA3440E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaBl", "LogicaBl\LogicaBl.csproj", "{BB0F2E7E-5F8F-42B3-A642-766C95049FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA680A8-11ED-434C-85C9-9048F6880CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA680A8-11ED-434C-85C9-9048F6880CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA680A8-11ED-434C-85C9-9048F6880CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA680A8-11ED-434C-85C9-9048F6880CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E3BDDD-7204-4F80-86A0-569D7BA3440E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E3BDDD-7204-4F80-86A0-569D7BA3440E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E3BDDD-7204-4F80-86A0-569D7BA3440E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E3BDDD-7204-4F80-86A0-569D7BA3440E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0F2E7E-5F8F-42B3-A642-766C95049FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0F2E7E-5F8F-42B3-A642-766C95049FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0F2E7E-5F8F-42B3-A642-766C95049FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0F2E7E-5F8F-42B3-A642-766C95049FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

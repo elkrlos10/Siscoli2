@@ -1,0 +1,10 @@
+C:\Users\FS_2017\Documents\Siscoli\Datos\bin\Debug\Datos.dll.config
+C:\Users\FS_2017\Documents\Siscoli\Datos\bin\Debug\Datos.dll
+C:\Users\FS_2017\Documents\Siscoli\Datos\bin\Debug\Datos.pdb
+C:\Users\FS_2017\Documents\Siscoli\Datos\bin\Debug\EntityFramework.dll
+C:\Users\FS_2017\Documents\Siscoli\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FS_2017\Documents\Siscoli\Datos\bin\Debug\EntityFramework.xml
+C:\Users\FS_2017\Documents\Siscoli\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FS_2017\Documents\Siscoli\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\FS_2017\Documents\Siscoli\Datos\obj\Debug\Datos.dll
+C:\Users\FS_2017\Documents\Siscoli\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,100 @@
+﻿<div class="page login-page" style="width:120%">
+    <div class="container d-flex align-items-center">
+        <div class="form-holder has-shadow">
+
+            <div class="row" id="login">
+                <!-- Logo & Information Panel-->
+                <div class="col-lg-6">
+                    <div class="info d-flex align-items-center">
+                        <div class="content">
+                            <div class="logo">
+                                <h1 style="margin-left:100%; ">SISCOLI</h1>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- Form Panel    -->
+                <div class="col-lg-6 bg-white">
+                    <div class="form d-flex align-items-center">
+                        <div class="content">
+                            <form id="login-form" method="post">
+                                <div class="form-group">
+                                    <input id="login-username" type="text" name="loginUsername" required="" class="input-material">
+                                    <label for="login-username" class="label-material">Usuario</label>
+                                </div>
+                                <div class="form-group">
+                                    <input id="login-password" type="password" name="loginPassword" required="" class="input-material">
+                                    <label for="login-password" class="label-material">Contraseña</label>
+                                </div><a id="login" href="index.html" class="btn btn-primary">Ingresar</a>
+                                <!-- This should be submit button but I replaced it with <a> for demo purposes-->
+                            </form><small>No tienes una cuenta?  </small><a href="" ng-click="RegistroEmpresa()" class="signup">   Registrarse</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!--REGISTRO-->
+
+            <div class="row" id="Registro">
+                <!-- Logo & Information Panel-->
+                <div class="col-lg-6">
+                    <div class="info d-flex align-items-center">
+                        <div class="content">
+                            <div class="logo">
+                                <h1 >registro siscoli</h1>
+                            </div>
+                       
+                        </div>
+                    </div>
+                </div>
+                <!-- Form Panel    -->
+                <div class="col-lg-6 bg-white">
+                    <div class="form d-flex align-items-center">
+                        <div class="content">
+                            <form id="register-form">
+                                <div class="form-group">
+                                    <input id="register-username" type="text" name="registerUsername" required class="input-material">
+                                    <label for="register-username" class="label-material">Nombre de la empresa</label>
+                                </div>
+                                <div class="form-group">
+                                    <input id="register-email" type="text" name="registerEmail" required class="input-material">
+                                    <label for="register-email" class="label-material">Nit     </label>
+                                </div>
+                                <div class="form-group">
+                                    <input id="register-passowrd" type="email" name="registerPassword" required class="input-material">
+                                    <label for="register-passowrd" class="label-material">correo        </label>
+                                </div>
+                                <div class="form-group">
+                                    <input id="register-passowrd" type="text" name="registerPassword" required class="input-material">
+                                    <label for="register-passowrd" class="label-material">Direccion        </label>
+                                </div>
+
+                                <div class="form-group">
+                                    <input id="register-passowrd" type="text" name="registerPassword" required class="input-material">
+                                    <label for="register-passowrd" class="label-material">Usuario        </label>
+                                </div>
+
+                                <div class="form-group">
+                                    <input id="register-passowrd" type="password" name="registerPassword" required class="input-material">
+                                    <label for="register-passowrd" class="label-material">Contraseña        </label>
+                                </div>
+
+                     
+                                <input id="register" type="submit" value="Registrarse" class="btn btn-primary">
+                            </form><small>Ya tienes una contraseña?</small><a href="" ng-click="MostrarLogin()" class="signup">Login</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+        </div>
+    </div>
+    
+</div>
