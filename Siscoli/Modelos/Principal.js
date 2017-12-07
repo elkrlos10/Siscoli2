@@ -28,6 +28,14 @@ SiscoliApp.config(function ($routeProvider) {
         templateUrl: 'Views/lista.html',
         controller: 'BusquedaController'
     })
+    .when('/dashboard', {
+        templateUrl: 'Views/dashboard.html',
+        controller: 'BusquedaController'
+    })
+    .when('/detalle', {
+        templateUrl: 'Views/detalle.html',
+        controller: 'BusquedaController'
+    })
 
            
     //$locationProvider.html5Mode(true);
